@@ -1,1 +1,1 @@
-# 21052841_NguyenTanLoc_KTTKPM
+# 21052841-Nguyễn Tấn Lộc-Kiến Trúc Thiết Kế Phần Mềm
